@@ -1,1 +1,1 @@
-linear Regression with GridsearchCV and Hyperparameter Tunibg
+Linear Regression with GridsearchCV and Hyperparameter Tuning
